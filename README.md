@@ -1,18 +1,18 @@
 Hi 👋 My name is Jakub
 ======================
 
-Full-stack JS/TS web/app developer
+Full-stack 🚀 JavaScript/TypeScript⚡web/app 🔗 developer 👨‍💻
 ----------------------------------
 
-I use Node.js with TypeScript as well as pure JavaScript to develop the most creative projects I can come up with. 💻 I also play Minecraft and I like Lego, so I'm not lacking in creativity! 😅 I love to travel 🌎, ride my bike 🚲 and occasionally do some photo editing 📸
+I use Node.js with TypeScript as well as pure JavaScript to develop the most creative projects I can come up with. ⌨️ I also play Minecraft and I like Lego, so I'm not lacking in creativity! 😅 I love to travel 🌎, ride my bike 🚲 and occasionally do some photo editing 📸
 
 * 🌍  Based in Wrocław / Zielona Góra, Poland
 * ✉️  You can contact me at [contact@jakubcieslik.com](mailto:contact@jakubcieslik.com)
-* 🖥️  See my portfolio at [jakubcieslik.com](http://jakubcieslik.com) //in development
+* 💻  See my portfolio at [jakubcieslik.com](http://jakubcieslik.com) //in development
 * 🚀  I'm currently working on [projects listed here](http://jakubcieslik.com/working) //in development
-* 🧠  I'm learning Next.js, Ionic, React Native, Flutter and I'd like to try Golang & Svelte
 * 🤝  I'm open to collaborating on Node.js related projects, ex. React, Express.js, MERN stack, etc.
-* ⚡  ”Java is to JavaScript what Car is to Carpet.” ~ Chris Heilmann
+* 🧠  I'm learning Next.js, Ionic, React Native, Flutter and I'd like to try Golang & Svelte
+* 💡  ”Java is to JavaScript what Car is to Carpet.” ~ Chris Heilmann
 
 ### Skills
 
