@@ -11,7 +11,7 @@ I use Node.js with TypeScript as well as pure JavaScript to develop the most cre
 * 💻  See my portfolio at [jakubcieslik.com](http://jakubcieslik.com) //in development
 * 🚀  I'm currently working on [projects listed here](http://jakubcieslik.com/working) //in development
 * 🤝  I'm open to collaborating on Node.js related projects, ex. React, Express.js, MERN stack, etc.
-* 🧠  I'm learning Next.js, Ionic, React Native, Flutter and I'd like to try Golang & Svelte
+* 🧠  I'm learning Next.js, GraphQL, React Native, Flutter and I'd like to try Svelte & Go
 * 💡  ”Java is to JavaScript what Car is to Carpet.” ~ Chris Heilmann
 
 ### Skills
