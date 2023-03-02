@@ -8,8 +8,7 @@ I use Node.js with TypeScript as well as pure JavaScript to develop the most cre
 
 * 🌍  Based in Wrocław / Zielona Góra, Poland
 * ✉️  You can contact me at [contact@jakubcieslik.com](mailto:contact@jakubcieslik.com)
-* 💻  See my portfolio at [jakubcieslik.com](http://jakubcieslik.com) //in development
-* 🚀  I'm currently working on [projects listed here](http://jakubcieslik.com/working) //in development
+* 💻  See my portfolio by going to [this tab](https://github.com/jakubcieslik99?tab=repositories)
 * 🤝  I'm open to collaborating on web apps & RESTful services business projects
 * 🧠  I'm learning Java Spring Boot, Next.js, GraphQL and practicing NestJS & PostgreSQL
 * 💡  ”Java is to JavaScript what Car is to Carpet.” ~ Chris Heilmann
