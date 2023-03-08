@@ -31,6 +31,8 @@ I use Node.js with TypeScript as well as pure JavaScript to develop the most cre
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nzpmCTx/babel.png" width="36" height="36" alt="Babel" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/xSxMpfs/spring-boot.png" width="36" height="36" alt="Spring Boot" ></a>
 </p>
 
 ### Socials
