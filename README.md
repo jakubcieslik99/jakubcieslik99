@@ -6,11 +6,11 @@ Full-stack 🚀 web⚡developer 👨‍💻
 
 I use Node.js with TypeScript as well as pure JavaScript to develop the most creative projects I can come up with. ⌨️ I also play Minecraft and I like Lego, so I'm not lacking in creativity! 😅 I love to travel 🌎, ride my bike 🚲 and occasionally do some photo editing 📸
 
-* 🌍  Based in Wrocław / Zielona Góra, Poland
+* 🌍  Currently based in Wrocław, Poland. I prefer remote work.
 * ✉️  You can contact me at [contact@jakubcieslik.com](mailto:contact@jakubcieslik.com)
 * 💻  See my portfolio by going to [this tab](https://github.com/jakubcieslik99?tab=repositories)
-* 🤝  I'm open to collaborating on web apps & RESTful services business projects
-* 🧠  I'm learning GraphQL, Next.js and practicing NestJS & PostgreSQL
+* 🤝  I'm open to collaborating on web apps, microservices & RESTful services business projects
+* 🧠  I'm learning GraphQL and practicing NestJS, PostgreSQL & Docker
 * 💡  ”Java is to JavaScript what Car is to Carpet.” ~ Chris Heilmann
 
 ### Skills & familiar tech
