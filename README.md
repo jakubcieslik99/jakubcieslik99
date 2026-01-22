@@ -1,16 +1,15 @@
 Hi 👋 My name is Jakub
 ======================
 
-Full-stack 🚀 web⚡developer 👨‍💻
+Full-stack 🚀 API & platform integration/automation/web⚡developer 👨‍💻
 ----------------------------------
 
-I use Node.js with TypeScript as well as pure JavaScript to develop the most creative projects I can come up with. ⌨️ I also play Minecraft and I like Lego, so I'm not lacking in creativity! 😅 I love to travel 🌎, ride my bike 🚲 and occasionally do some photo editing 📸
+I build modern backend/web applications using Node.js and TypeScript, focusing on scalable architectures and clean, maintainable code. ⌨️ Outside of tech, I enjoy traveling 🌍, cycling 🚲 and photo editing. 📸
 
 * 🌍  Currently based in Wrocław, Poland. I prefer remote work.
 * ✉️  You can contact me at [contact@jakubcieslik.com](mailto:contact@jakubcieslik.com)
 * 💻  See my portfolio by going to [this tab](https://github.com/jakubcieslik99?tab=repositories)
-* 🤝  I'm open to collaborating on web apps, microservices & RESTful services business projects
-* 🧠  I'm learning GraphQL and practicing NestJS, PostgreSQL & Docker
+* 🤝  I'm open to collab on API & platform integration/automation, web apps, microservices & RESTful services business projects
 * 💡  ”Java is to JavaScript what Car is to Carpet.” ~ Chris Heilmann
 
 ### Skills & familiar tech
@@ -48,4 +47,4 @@ I use Node.js with TypeScript as well as pure JavaScript to develop the most cre
 ###
 <b>GitHub Stats</b>
 
-<a href="http://www.github.com/jakubcieslik99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jakubcieslik99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/jakubcieslik99"><img src="https://github-readme-streak-stats.herokuapp.com?user=jakubcieslik99&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
