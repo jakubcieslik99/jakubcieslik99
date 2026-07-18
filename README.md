@@ -20,6 +20,7 @@ I build modern backend/web applications using Node.js and TypeScript, focusing o
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/sVP5VQf/expressjs.png" width="36" height="36" alt="Express" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/S4J8wBTR/socketio.png" width="36" height="36" alt="Socket.IO" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/DsNn5MF/vite.png" width="36" height="36" alt="Vite" /></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/VbNFYKp/nextjs.png" width="36" height="36" alt="Next.js" /></a>
