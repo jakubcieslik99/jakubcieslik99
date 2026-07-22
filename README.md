@@ -55,8 +55,14 @@ I build modern backend/web applications using Node.js and TypeScript, focusing o
 </p>
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="20" height="22" alt="Java" /></a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/xSxMpfs/spring-boot.png" width="20" height="22" alt="Spring Boot" ></a>
+<a href="https://claude.com/product/claude-code" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/5WXgdHrf/claudecode.png" width="36" height="36" alt="Claude Code" /></a>
+<a href="https://github.com/copilot" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/zTQ8r3ZZ/githubcopilot.png" width="43" height="36" alt="GitHub Copilot" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/N62vHL88/vscode.png" width="36" height="36" alt="Visual Studio Code" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="22" height="22" alt="Java" /></a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/xSxMpfs/spring-boot.png" width="22" height="22" alt="Spring Boot" ></a>
 </p>
 
 ### My socials:
